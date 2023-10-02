@@ -1,0 +1,17 @@
+D:\Window\HuynhHuuThien\Exercise_001\bin\Debug\Exercise_001.exe.config
+D:\Window\HuynhHuuThien\Exercise_001\bin\Debug\Exercise_001.exe
+D:\Window\HuynhHuuThien\Exercise_001\bin\Debug\Exercise_001.pdb
+D:\Window\HuynhHuuThien\Exercise_001\bin\Debug\EntityFramework.dll
+D:\Window\HuynhHuuThien\Exercise_001\bin\Debug\EntityFramework.SqlServer.dll
+D:\Window\HuynhHuuThien\Exercise_001\bin\Debug\EntityFramework.xml
+D:\Window\HuynhHuuThien\Exercise_001\bin\Debug\EntityFramework.SqlServer.xml
+D:\Window\HuynhHuuThien\Exercise_001\obj\Debug\Exercise_01.csproj.AssemblyReference.cache
+D:\Window\HuynhHuuThien\Exercise_001\obj\Debug\Exercise_01.csproj.SuggestedBindingRedirects.cache
+D:\Window\HuynhHuuThien\Exercise_001\obj\Debug\Exercise_001.GUI.Employee.resources
+D:\Window\HuynhHuuThien\Exercise_001\obj\Debug\Exercise_001.EmployeeList.resources
+D:\Window\HuynhHuuThien\Exercise_001\obj\Debug\Exercise_001.Properties.Resources.resources
+D:\Window\HuynhHuuThien\Exercise_001\obj\Debug\Exercise_01.csproj.GenerateResource.cache
+D:\Window\HuynhHuuThien\Exercise_001\obj\Debug\Exercise_01.csproj.CoreCompileInputs.cache
+D:\Window\HuynhHuuThien\Exercise_001\obj\Debug\Exercise_01.csproj.CopyComplete
+D:\Window\HuynhHuuThien\Exercise_001\obj\Debug\Exercise_001.exe
+D:\Window\HuynhHuuThien\Exercise_001\obj\Debug\Exercise_001.pdb
